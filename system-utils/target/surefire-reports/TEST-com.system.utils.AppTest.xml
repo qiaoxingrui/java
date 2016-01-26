@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.system.utils.AppTest" time="0.001" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="E:\Program Files\Java\jre1.8.0_65\bin"/>
+    <property name="java.vm.version" value="25.65-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\MarsWorkspace\system-parent"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\MarsWorkspace\system-parent"/>
+    <property name="java.runtime.version" value="1.8.0_65-b17"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="E:\Program Files\Java\jre1.8.0_65\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="E:\Users\DataLook\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="F:\MarsWorkspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5125549261351487256.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="E:\Program Files\Java\jre1.8.0_65\bin;E:\Windows\Sun\Java\bin;E:\Windows\system32;E:\Windows;E:/Program Files/Java/jre1.8.0_65/bin/server;E:/Program Files/Java/jre1.8.0_65/bin;E:/Program Files/Java/jre1.8.0_65/lib/amd64;E:\ProgramData\Oracle\Java\javapath;D:\apache-maven-3.2.3-bin\apache-maven-3.2.3\bin;E:\Program Files (x86)\Common Files\NetSarang;E:\Python27\;C:\nacl_sdk\pepper_35\;E:\Program Files (x86)\Google\Chrome\Application\chrome.exe\;E:\Program Files (x86)\Java\jdk1.8.0\bin;E:\Windows\system32;E:\Windows;E:\Windows\System32\Wbem;E:\Windows\System32\WindowsPowerShell\v1.0\;E:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;E:\Program Files\Microsoft SQL Server\100\Tools\Binn\;E:\Program Files\Microsoft SQL Server\100\DTS\Binn\;E:\Program Files\Microsoft\Web Platform Installer\;E:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;E:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;E:\Program Files\Microsoft SQL Server\110\Tools\Binn\;E:\Program Files\nodejs\;E:\Users\DataLook\bin\Sencha\Cmd\6.0.2.14/..;E:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;E:\Users\DataLook\AppData\Roaming\npm;E:\Users\DataLook\Desktop;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="E:\Users\DataLook"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="DataLook"/>
+    <property name="java.class.path" value="/E:/Users/DataLook/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="E:\Program Files\Java\jre1.8.0_65"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_65"/>
+    <property name="java.ext.dirs" value="E:\Program Files\Java\jre1.8.0_65\lib\ext;E:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="E:\Program Files\Java\jre1.8.0_65\lib\resources.jar;E:\Program Files\Java\jre1.8.0_65\lib\rt.jar;E:\Program Files\Java\jre1.8.0_65\lib\sunrsasign.jar;E:\Program Files\Java\jre1.8.0_65\lib\jsse.jar;E:\Program Files\Java\jre1.8.0_65\lib\jce.jar;E:\Program Files\Java\jre1.8.0_65\lib\charsets.jar;E:\Program Files\Java\jre1.8.0_65\lib\jfr.jar;E:\Program Files\Java\jre1.8.0_65\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="F:\MarsWorkspace\system-parent\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.system.utils.AppTest" name="testApp" time="0.001"/>
+</testsuite>
